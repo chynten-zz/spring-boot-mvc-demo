@@ -1,4 +1,4 @@
-package com.elephantem.demos.controller;
+package com.chynten.demos.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
